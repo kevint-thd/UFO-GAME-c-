@@ -1,2 +1,2 @@
-# UFO-GAME-c-
-C++  Small Project ( like Hnagman part of curriculum )
+# UFO-GAME-c++
+C++  Small Project ( like Hangman part of the Codecademy curriculum)
