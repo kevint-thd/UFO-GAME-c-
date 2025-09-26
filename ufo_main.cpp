@@ -2,7 +2,7 @@
 #include "ufo_functions.hpp"
 //  maybe need to adapt header  file name  as above
 int main() {
-    std::string codeword = "codeacademy";
+    std::string codeword = "codeword";
     std::string answer = "___________"; // 11 underscores for each letter
     int misses = 0;
     std::vector<char> incorrect;  // To track wrong guesses
